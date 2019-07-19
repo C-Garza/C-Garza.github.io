@@ -1,10 +1,12 @@
 {
-  "main.css": "static/css/main.ead4a6f1.css",
-  "main.css.map": "static/css/main.ead4a6f1.css.map",
-  "main.js": "static/js/main.be75f34f.js",
-  "main.js.map": "static/js/main.be75f34f.js.map",
+  "main.css": "static/css/main.16b6c079.css",
+  "main.css.map": "static/css/main.16b6c079.css.map",
+  "main.js": "static/js/main.9ccde7c2.js",
+  "main.js.map": "static/js/main.9ccde7c2.js.map",
   "static\\media\\book fund screenshot.png": "static/media/book fund screenshot.661a3e59.png",
+  "static\\media\\planet-svgrepo-com.svg": "static/media/planet-svgrepo-com.404786b8.svg",
   "static\\media\\portfolio screenshot.png": "static/media/portfolio screenshot.6e0fdb25.png",
   "static\\media\\random quote screenshot.png": "static/media/random quote screenshot.1b677740.png",
+  "static\\media\\random2.png": "static/media/random2.c2aecde4.png",
   "static\\media\\wiki screenshot.png": "static/media/wiki screenshot.be5f9c75.png"
 }
