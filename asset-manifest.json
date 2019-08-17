@@ -1,12 +1,11 @@
 {
-  "main.css": "static/css/main.a55018a5.css",
-  "main.css.map": "static/css/main.a55018a5.css.map",
-  "main.js": "static/js/main.1afce47a.js",
-  "main.js.map": "static/js/main.1afce47a.js.map",
-  "static\\media\\book fund screenshot.png": "static/media/book fund screenshot.661a3e59.png",
+  "main.css": "static/css/main.cdfdcbeb.css",
+  "main.css.map": "static/css/main.cdfdcbeb.css.map",
+  "main.js": "static/js/main.305883e8.js",
+  "main.js.map": "static/js/main.305883e8.js.map",
+  "static\\media\\book-fund-screenshot.png": "static/media/book-fund-screenshot.af32918e.png",
   "static\\media\\planet-svgrepo-com.svg": "static/media/planet-svgrepo-com.404786b8.svg",
-  "static\\media\\portfolio screenshot.png": "static/media/portfolio screenshot.6e0fdb25.png",
-  "static\\media\\random quote screenshot.png": "static/media/random quote screenshot.1b677740.png",
-  "static\\media\\random2.png": "static/media/random2.c2aecde4.png",
-  "static\\media\\wiki screenshot.png": "static/media/wiki screenshot.be5f9c75.png"
+  "static\\media\\portfolio-screenshot.png": "static/media/portfolio-screenshot.29ddd260.png",
+  "static\\media\\random-quote-screenshot.png": "static/media/random-quote-screenshot.c2aecde4.png",
+  "static\\media\\wiki-screenshot.png": "static/media/wiki-screenshot.be5f9c75.png"
 }
